@@ -18,10 +18,15 @@ First, I will start by attempting to create a basic class object for
 the following things:
 
   [X] Person              [(4/21/2017) ( 7:21am PST) "Done."    -w0bb13z]
+  
   [X] Animal              [(4/21/2017) ( 9:41am PST) "Done."    -w0bb13z]
+  
   [+] Residential House   [(4/21/2017) (11:24am PST) "Started." -w0bb13z]
+  
   [-] Commerical Business
+  
   [-] Item For Sale
+  
   [-] Social Event
 
 We will ultimately be striving to create a polymorphic, yet simplified
