@@ -28,6 +28,9 @@ We will ultimately be striving to create a polymorphic, yet simplified
 set of objects that can be used to for-all-intents-and-purposes in the
 generation, calculation, and simulation of the entirety of existance.
 
+All jokes aside, the most logical way to start about this is to lay out
+what the classes should look like at a minimum. Thats where I'll start.
+
 This sounds crazy. It' is crazy. I'm crazy. Let's rock.
                                        - w0bb13z [8:10pm PST]-[4/20/2017]
                                        
