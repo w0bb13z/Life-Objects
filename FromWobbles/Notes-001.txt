@@ -1,0 +1,11 @@
+The entire idea for the mock ups is that I want to create a base
+set of objects that at minimum consist of a well-thought-out set
+of constants that ultimately create an electronic "skeleton" of
+sorts for each object.
+
+For now each object's file should include the general imports,
+followed by a class object containing a set of constants-- which
+are passed in through the __init__, as well as a dictionary to
+link the lowercase string version of each attribute name, and
+lastly the more-or-less copy and paste .get() and .set() funcs
+that are used to interact with them.
