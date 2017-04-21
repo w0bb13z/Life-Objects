@@ -1,5 +1,3 @@
-##############################################################
-
 The idea behind this Pr0j3kt is to encapsulate and compartmentalize
 the various aspects of Life and Existance as we currently know it.
 
