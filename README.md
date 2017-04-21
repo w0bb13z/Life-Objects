@@ -12,7 +12,7 @@ that of my own:
 
     "wtf slow down im coming omg.
      some of us r people...
-       Not me. But some of us."   -w0bb13z
+       Not me. But some of us are."   -w0bb13z
 
 First, I will start by attempting to create a basic class object for
 the following things:
